@@ -1,4 +1,4 @@
-# fastapi_crud_operations
+# python tele_bot
 bu KFC boti. Siz bu botni ishlatish uchun:
 1. /start tugmasini bosing — bu botni faollashtiradi va sizga asosiy menyu yoki yordam ko'rsatmalarini taqdim etadi.
 
